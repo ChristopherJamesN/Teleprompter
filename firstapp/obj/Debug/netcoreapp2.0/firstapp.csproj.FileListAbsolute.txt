@@ -1,0 +1,11 @@
+/Users/christophernady/firstapp/bin/Debug/netcoreapp2.0/firstapp.deps.json
+/Users/christophernady/firstapp/bin/Debug/netcoreapp2.0/firstapp.runtimeconfig.json
+/Users/christophernady/firstapp/bin/Debug/netcoreapp2.0/firstapp.runtimeconfig.dev.json
+/Users/christophernady/firstapp/bin/Debug/netcoreapp2.0/firstapp.dll
+/Users/christophernady/firstapp/bin/Debug/netcoreapp2.0/firstapp.pdb
+/Users/christophernady/firstapp/obj/Debug/netcoreapp2.0/firstapp.csproj.CoreCompileInputs.cache
+/Users/christophernady/firstapp/obj/Debug/netcoreapp2.0/firstapp.AssemblyInfoInputs.cache
+/Users/christophernady/firstapp/obj/Debug/netcoreapp2.0/firstapp.AssemblyInfo.cs
+/Users/christophernady/firstapp/obj/Debug/netcoreapp2.0/firstapp.dll
+/Users/christophernady/firstapp/obj/Debug/netcoreapp2.0/firstapp.pdb
+/Users/christophernady/firstapp/obj/Debug/netcoreapp2.0/firstapp.csprojResolveAssemblyReference.cache
